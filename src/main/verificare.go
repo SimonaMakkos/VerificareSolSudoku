@@ -2,6 +2,8 @@ package main
 
 import "fmt"
 
+
+
 func main() {
 	sudoku := [9][9]uint{
 		{6, 8, 2, 1, 9, 4, 3, 5, 7},
